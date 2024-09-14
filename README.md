@@ -1,2 +1,2 @@
 # AdventOfCode
-My solutions for AoC riddles and some useful functions
+My solutions for AoC riddles and some useful functions in R.
